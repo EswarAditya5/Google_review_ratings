@@ -44,3 +44,7 @@ This data set is populated by capturing user ratings from Google reviews. Review
 - Analyzing the existing data and getting valuable insights about the review pattern
 - Data pre-processing including missing value treatment
 - Cluster the reviews based on the optimum number of clusters (‘k’) with the help of a dendrogram
+
+Thank you for visiting this project!
+
+**Author:** Eswar Aditya **Contact:** eswaraditya63@gmail.com
