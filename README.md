@@ -53,6 +53,9 @@ This data set is populated by capturing user ratings from Google reviews. Review
 <img src = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png', height = "50" alt = 'Github'/><img width = '12'/>
 </div>
 
+### Conclusion:
+
+
 Thank you for visiting this project!
 
 **Author:** Eswar Aditya **Contact:** eswaraditya63@gmail.com
