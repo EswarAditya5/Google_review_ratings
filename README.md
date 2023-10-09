@@ -1,5 +1,5 @@
 
-# Travel Review Segmentation by Google_reviews
+# Travel Review Segmentation by Google_ratings
 
 ### Abstract:
 Understanding the tastes of each user and the characteristics of each product is necessary to predict how a user will respond to a new product. These latent user and product dimensions can be discovered with the help of user feedback. A numeric rating and its accompanying text review is the most widely available form of user feedback. A measure that encapsulates the contents of such reviews is often necessary as they have been found to significantly influence the shopping behavior of users. A fine-grained form of such measure that could act as perfect feedback about the product is a star rating. The review rating prediction tries to predict a rating corresponding to the given review.
