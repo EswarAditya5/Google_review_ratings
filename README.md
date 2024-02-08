@@ -58,4 +58,4 @@ This data set is populated by capturing user ratings from Google reviews. Review
 
 Thank you for visiting this project!
 
-**Author:** Eswar Aditya **Contact:** eswaraditya63@gmail.com
+**Author:** Eswar Aditya **Contact:** eadityar@gmail.com
